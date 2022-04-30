@@ -10,6 +10,7 @@ public class myclass {
                 sum = sum + a;  // it will add up the user number plus the whole loop number from 1 to 20 one by one
             }
             System.out.print(sum + "  ");
+            System.out.println(a);
 
         }
     }
